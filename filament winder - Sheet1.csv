@@ -2,7 +2,7 @@ filament winder BOM,,,,
 item name,quantity ,price per item ,price,link
 aluminium v channel,6,322.14,1932.84,https://robokits.co.in/robot-parts/aluminium-profile-accessories/black-anodized-aluminium-2020-v-slot-profile-1meter
 assembled gantry plate,2,"1,284",2568,https://www.amazon.in/ATORSE-Gantry-Printer-Machine-wheels/dp/B0FY6LMP6S
-tnut,70,7.08,495.6,https://robokits.co.in/robot-parts/aluminium-profile-accessories/t-type-nut-m4-for-2020-aluminium-profile-moq-10pcs
+tnut,100,7.08,495.6,https://robokits.co.in/robot-parts/aluminium-profile-accessories/t-type-nut-m4-for-2020-aluminium-profile-moq-10pcs
 m4,60,2.17,130.2,https://omrook.com/button-allen-m4-x-16mm-dia-4mm-length-16mm-allen-socket-button-screws/
 M3,30,3.26,97.8,https://omrook.com/button-allen-m3-x-10mm-dia-3mm-length-10mm-allen-socket-button-screws/
 Ball bearing (3mm ID),20,35.4,708,https://omrook.com/683zz-ball-bearing-3x7x3-mm/
@@ -15,4 +15,5 @@ stepper motor drier,3,236,708,https://robu.in/product/tmc2208-stepper-motor-driv
 ,,,,
 ,,,,
 ,,,,
+
 ,total,,9508.28,
